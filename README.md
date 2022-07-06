@@ -1,0 +1,2 @@
+# QrCode
+Cria Qr codes 
