@@ -1,2 +1,2 @@
 # QrCode
-Cria Qr codes 
+Cria Qr codes em python
